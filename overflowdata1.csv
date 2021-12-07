@@ -1,0 +1,244 @@
+questions,auther_name_href,tags,auther_name,post_tags,soluction
+"filter traffic with client dynamic IP,Broken navbar MVC,How to share Parent component model with multiple child components In Angular?,How do I get the total hours of a day with datetime? [duplicate],adding a row to datagrid vpf when it contains a collection,cshtml with Javascript li,Perl: 503 Service Unavailable at test.pl,Docker Desktop sending HEAD requests to my containers,System.Text.Json Conversion Issue [duplicate],kernel 4.17 pass argument to new system call to struct pt_regs * doesnt' work,Installing HyperSpy for Python_ERROR,How to return an array of enums, get this error,Programmatically retrieve jar dependency in a Gradle project,Wso2 Api Manager response caching issue,Generate an amount of random numbers from a paramter then store them to call in a method later,Export Union as .obj WITH textures?,How to Compile a Tex File in a C# .Net Application (or distribute the compiler with it)?,Java GUI: None of my panels are showing up on my Frame, but its background color and title are visible?,Handle duplicates with express.js,Pandas ExcelWriter yields AttributeError,Execute Unit tests in windows app container,Home Network DNS/SSL WebRTC,Replacing NaN with empty in cell array,How to make (react-redux) connect() properly handling types for generic components,Guidance needed with a 99.99% done C++ programme - if and else statements,How to resolve gmsh Mesh generation errors,How to divide response by monthes and add counter with Java API in Elasticsearch,Stuck with fetching name through firebase,DML trigger, creating new rows for several customers after insert/update/delete,Spring Boot property binding yields strange values,Index was out of range. Must be non-negative and less than the size of the collection. Parameter index,Find partials duplicates in arrays JavaScript,How can I change the set container in Python? [duplicate],Can you create a virtual webcam using Qt5 and C ++?,making a class private so the value doesn't get modified,how to set dynamically property in class?,Mapbox: Find POIs with defined radius,Api Intergration on php project,How can i use bootstrap modal or confirm box in thymeleaf for login when spring security is used in java application?,Browser Back Button same scrollheight where i left before,WebRTC in Android.mk,How to detect a url change through an inframe present inside a functional component,generate time slots for a week and assign them into an array i firebaase,How to parse list of files using argparse.FileType(),ReactJS check the render method of `Provider` ContextAPI,Replace whitespace but only between limits php,How to create shared component in React correctly?,Django create POST intermediate model,Use Entry-Values for computation and display results,Passing a singleton as argument in Scala","/users/13049332/hariram-manohar,/users/12201760/%d0%9f%d0%b5%d1%82%d1%80-%d0%90%d0%bd%d0%b0%d0%bd%d1%8c%d0%b5%d0%b2,/users/6345143/pola,/users/11838597/ssebastianoo,/users/13070600/cakecore,/users/206567/jefferson,/users/12967180/emily,/users/221042/data,/users/1153795/trevor-daniel,/users/6722227/daniel-haish,/users/11339383/capt-krusty,/users/13070546/rey-li,/users/4086836/andrei,/users/12836687/deepak,/users/12536804/tester54321,/users/13070617/jason,/users/12373140/arne-22,/users/13067991/graeven-yuri-videz,/users/11804875/mario-garcia,/users/6743850/user111937,/users/3485361/lokimidgard,/users/929638/matt,/users/12880625/gbilianis,/users/5118992/maxim-palenov,/users/13070543/aliki-capatos,/users/12969884/robotbarry,/users/9356527/stephan-korsakov,/users/13069789/aqsa-saleem,/users/10118419/balthazar,/users/58962/michael-b%c3%b6ckling,/users/13070474/rruser,/users/5286364/daniel-msika,/users/10419920/rodion-shishkin,/users/13070602/jaime-gonzalez,/users/13070559/derek,/users/4568818/ehsan-rezaee,/users/7393633/artemii-rotovskii,/users/12611807/onuwa-o,/users/8955549/user8955549,/users/11770316/marc-justin-rait,/users/3763467/dgcipp,/users/10004688/rikki,/users/12788632/madhu-reddy,/users/5426939/kevin-tinnemans,/users/11786011/shkelqim-maxharraj,/users/10716664/alvaro-franz,/users/11699467/robert-gurjiev,/users/3879958/et-cs,/users/7722318/miradius,/users/2444661/mandroid","/questions/60706447/filter-traffic-with-client-dynamic-ip,/questions/tagged/filtering,/questions/tagged/f5,/users/13049332/hariram-manohar,/users/13049332/hariram-manohar,/questions/60706441/broken-navbar-mvc,/questions/tagged/asp.net-mvc,/questions/tagged/bootstrap-4,/users/12201760/%d0%9f%d0%b5%d1%82%d1%80-%d0%90%d0%bd%d0%b0%d0%bd%d1%8c%d0%b5%d0%b2,/users/12201760/%d0%9f%d0%b5%d1%82%d1%80-%d0%90%d0%bd%d0%b0%d0%bd%d1%8c%d0%b5%d0%b2,/questions/60706438/how-to-share-parent-component-model-with-multiple-child-components-in-angular,/questions/tagged/angular,/users/6345143/pola,/users/6345143/pola,/questions/60706436/how-do-i-get-the-total-hours-of-a-day-with-datetime,/questions/tagged/python,/questions/tagged/datetime,/users/11838597/ssebastianoo,/users/11838597/ssebastianoo,/questions/60706435/adding-a-row-to-datagrid-vpf-when-it-contains-a-collection,/questions/tagged/c%23,/questions/tagged/sql-server,/users/13070600/cakecore,/users/13070600/cakecore,/questions/60706433/cshtml-with-javascript-li,/questions/tagged/javascript,/questions/tagged/razor,/users/206567/jefferson,/users/206567/jefferson,/questions/60706426/perl-503-service-unavailable-at-test-pl,/questions/tagged/perl,/questions/tagged/curl,/users/12967180/emily,/users/12967180/emily,/questions/60706425/docker-desktop-sending-head-requests-to-my-containers,/questions/tagged/docker,/questions/tagged/docker-compose,/users/221042/data,/users/221042/data,/questions/60706424/system-text-json-conversion-issue,/questions/tagged/c%23,/questions/tagged/json,/users/1153795/trevor-daniel,/users/1153795/trevor-daniel,/questions/60706422/kernel-4-17-pass-argument-to-new-system-call-to-struct-pt-regs-doesnt-work,/questions/tagged/c,/questions/tagged/linux,/questions/tagged/system-calls,/users/6722227/daniel-haish,/users/6722227/daniel-haish,/questions/60706420/installing-hyperspy-for-python-error,/questions/tagged/python-3.x,/questions/tagged/cmd,/questions/tagged/exitstatus,/users/11339383/capt-krusty,/users/11339383/capt-krusty,/questions/60706419/how-to-return-an-array-of-enums-get-this-error,/questions/tagged/java,/questions/tagged/arrays,/questions/tagged/enums,/questions/tagged/compiler-errors,/users/13070546/rey-li,/users/13070546/rey-li,/questions/60706417/programmatically-retrieve-jar-dependency-in-a-gradle-project,/questions/tagged/java,/questions/tagged/gradle,/questions/tagged/kotlin,/users/4086836/andrei,/users/4086836/andrei,/questions/60706415/wso2-api-manager-response-caching-issue,/questions/tagged/wso2,/questions/tagged/wso2-am,/users/12836687/deepak,/users/12836687/deepak,/questions/60706414/generate-an-amount-of-random-numbers-from-a-paramter-then-store-them-to-call-in,/questions/tagged/java,/questions/tagged/random,/users/12536804/tester54321,/users/12536804/tester54321,/questions/60706412/export-union-as-obj-with-textures,/questions/tagged/roblox,/users/13070617/jason,/users/13070617/jason,/questions/60706410/how-to-compile-a-tex-file-in-a-c-sharp-net-application-or-distribute-the-compi,/questions/tagged/c%23,/questions/tagged/.net,/questions/tagged/wpf,/questions/tagged/tex,/users/12373140/arne-22,/users/12373140/arne-22,/questions/60706408/java-gui-none-of-my-panels-are-showing-up-on-my-frame-but-its-background-color,/questions/tagged/java,/questions/tagged/swing,/questions/tagged/user-interface,/questions/tagged/jframe,/questions/tagged/jpanel,/users/13067991/graeven-yuri-videz,/users/13067991/graeven-yuri-videz,/questions/60706407/handle-duplicates-with-express-js,/questions/tagged/javascript,/questions/tagged/node.js,/questions/tagged/postgresql,/questions/tagged/express,/questions/tagged/post,/users/11804875/mario-garcia,/users/11804875/mario-garcia,/questions/60706406/pandas-excelwriter-yields-attributeerror,/questions/tagged/python,/questions/tagged/pandas,/questions/tagged/xlsxwriter,/users/6743850/user111937,/users/6743850/user111937,/questions/60706405/execute-unit-tests-in-windows-app-container,/questions/tagged/unit-testing,/questions/tagged/.net-core,/questions/tagged/desktop-bridge,/users/3485361/lokimidgard,/users/3485361/lokimidgard,/questions/60706404/home-network-dns-ssl-webrtc,/questions/tagged/ssl,/questions/tagged/dns,/questions/tagged/intranet,/users/929638/matt,/users/929638/matt,/questions/60706400/replacing-nan-with-empty-in-cell-array,/questions/tagged/matlab,/users/12880625/gbilianis,/users/12880625/gbilianis,/questions/60706397/how-to-make-react-redux-connect-properly-handling-types-for-generic-componen,/questions/tagged/reactjs,/questions/tagged/typescript,/questions/tagged/react-redux,/users/5118992/maxim-palenov,/users/5118992/maxim-palenov,/questions/60706396/guidance-needed-with-a-99-99-done-c-programme-if-and-else-statements,/questions/tagged/c%2b%2b,/users/13070543/aliki-capatos,/users/13070543/aliki-capatos,/questions/60706395/how-to-resolve-gmsh-mesh-generation-errors,/questions/tagged/python,/questions/tagged/mesh,/questions/tagged/finite-element-analysis,/questions/tagged/openfoam,/users/12969884/robotbarry,/users/12969884/robotbarry,/questions/60706394/how-to-divide-response-by-monthes-and-add-counter-with-java-api-in-elasticsearch,/questions/tagged/elasticsearch,/questions/tagged/counter,/questions/tagged/aggregation,/questions/tagged/java-api,/users/9356527/stephan-korsakov,/users/9356527/stephan-korsakov,/questions/60706392/stuck-with-fetching-name-through-firebase,/questions/tagged/firebase,/questions/tagged/firebase-realtime-database,/questions/tagged/data-retrieval,/users/13069789/aqsa-saleem,/users/13069789/aqsa-saleem,/questions/60706391/dml-trigger-creating-new-rows-for-several-customers-after-insert-update-delete,/questions/tagged/sql,/questions/tagged/sql-server,/questions/tagged/triggers,/users/10118419/balthazar,/users/10118419/balthazar,/questions/60706390/spring-boot-property-binding-yields-strange-values,/questions/tagged/spring-boot,/questions/tagged/data-binding,/users/58962/michael-b%c3%b6ckling,/users/58962/michael-b%c3%b6ckling,/questions/60706389/index-was-out-of-range-must-be-non-negative-and-less-than-the-size-of-the-colle,/questions/tagged/vb.net,/questions/tagged/export,/users/13070474/rruser,/users/13070474/rruser,/questions/60706387/find-partials-duplicates-in-arrays-javascript,/questions/tagged/javascript,/questions/tagged/arrays,/users/5286364/daniel-msika,/users/5286364/daniel-msika,/questions/60706386/how-can-i-change-the-set-container-in-python,/questions/tagged/python,/users/10419920/rodion-shishkin,/users/10419920/rodion-shishkin,/questions/60706385/can-you-create-a-virtual-webcam-using-qt5-and-c,/questions/tagged/c%2b%2b,/questions/tagged/qt,/users/13070602/jaime-gonzalez,/users/13070602/jaime-gonzalez,/questions/60706383/making-a-class-private-so-the-value-doesnt-get-modified,/questions/tagged/c%23,/questions/tagged/arrays,/users/13070559/derek,/users/13070559/derek,/questions/60706381/how-to-set-dynamically-property-in-class,/questions/tagged/c%23,/questions/tagged/oop,/users/4568818/ehsan-rezaee,/users/4568818/ehsan-rezaee,/questions/60706379/mapbox-find-pois-with-defined-radius,/questions/tagged/mapbox,/users/7393633/artemii-rotovskii,/users/7393633/artemii-rotovskii,/questions/60706378/api-intergration-on-php-project,/questions/tagged/php,/questions/tagged/api,/questions/tagged/integration,/users/12611807/onuwa-o,/users/12611807/onuwa-o,/questions/60706376/how-can-i-use-bootstrap-modal-or-confirm-box-in-thymeleaf-for-login-when-spring,/questions/tagged/ajax,/questions/tagged/spring,/questions/tagged/spring-boot,/questions/tagged/spring-security,/users/8955549/user8955549,/users/8955549/user8955549,/questions/60706375/browser-back-button-same-scrollheight-where-i-left-before,/questions/tagged/javascript,/questions/tagged/jquery,/users/11770316/marc-justin-rait,/users/11770316/marc-justin-rait,/questions/60706374/webrtc-in-android-mk,/questions/tagged/webrtc,/questions/tagged/android-source,/questions/tagged/android.mk,/questions/tagged/webrtc-android,/users/3763467/dgcipp,/users/3763467/dgcipp,/questions/60706373/how-to-detect-a-url-change-through-an-inframe-present-inside-a-functional-compon,/questions/tagged/javascript,/questions/tagged/reactjs,/questions/tagged/iframe,/users/10004688/rikki,/users/10004688/rikki,/questions/60706370/generate-time-slots-for-a-week-and-assign-them-into-an-array-i-firebaase,/questions/tagged/javascript,/questions/tagged/arrays,/questions/tagged/angular,/questions/tagged/firebase,/questions/tagged/ionic-framework,/users/12788632/madhu-reddy,/users/12788632/madhu-reddy,/questions/60706369/how-to-parse-list-of-files-using-argparse-filetype,/questions/tagged/python,/questions/tagged/argparse,/users/5426939/kevin-tinnemans,/users/5426939/kevin-tinnemans,/questions/60706366/reactjs-check-the-render-method-of-provider-contextapi,/questions/tagged/reactjs,/questions/tagged/context-api,/users/11786011/shkelqim-maxharraj,/users/11786011/shkelqim-maxharraj,/questions/60706365/replace-whitespace-but-only-between-limits-php,/questions/tagged/php,/questions/tagged/regex,/users/10716664/alvaro-franz,/users/10716664/alvaro-franz,/questions/60706362/how-to-create-shared-component-in-react-correctly,/questions/tagged/reactjs,/users/11699467/robert-gurjiev,/users/11699467/robert-gurjiev,/questions/60706360/django-create-post-intermediate-model,/questions/tagged/django,/questions/tagged/django-rest-framework,/users/3879958/et-cs,/users/3879958/et-cs,/questions/60706358/use-entry-values-for-computation-and-display-results,/questions/tagged/python,/questions/tagged/tkinter,/users/7722318/miradius,/users/7722318/miradius,/questions/60706357/passing-a-singleton-as-argument-in-scala,/questions/tagged/scala,/questions/tagged/singleton,/users/2444661/mandroid,/users/2444661/mandroid",,"filtering,f5,asp.net-mvc,bootstrap-4,angular,python,datetime,c#,sql-server,javascript,razor,perl,curl,docker,docker-compose,c#,json,c,linux,system-calls,python-3.x,cmd,exitstatus,java,arrays,enums,compiler-errors,java,gradle,kotlin,wso2,wso2-am,java,random,roblox,c#,.net,wpf,tex,java,swing,user-interface,jframe,jpanel,javascript,node.js,postgresql,express,post,python,pandas,xlsxwriter,unit-testing,.net-core,desktop-bridge,ssl,dns,intranet,matlab,reactjs,typescript,react-redux,c++,python,mesh,finite-element-analysis,openfoam,elasticsearch,counter,aggregation,java-api,firebase,firebase-realtime-database,data-retrieval,sql,sql-server,triggers,spring-boot,data-binding,vb.net,export,javascript,arrays,python,c++,qt,c#,arrays,c#,oop,mapbox,php,api,integration,ajax,spring,spring-boot,spring-security,javascript,jquery,webrtc,android-source,android.mk,webrtc-android,javascript,reactjs,iframe,javascript,arrays,angular,firebase,ionic-framework,python,argparse,reactjs,context-api,php,regex,reactjs,django,django-rest-framework,python,tkinter,scala,singleton","
+            we have IP Filtering at F5 along with SSL Authentication.
+
+Now the issue is client application moved to cloud and his IP address/subnet both will vary dynamically time to time, when client calls our ...
+        ,
+            A completely incomprehensible situation happened with my project after turning on ssl, although maybe this is not the reason, but still I have the following result. The nav bar only works correctly on ...
+        ,
+            I know There are different ways to share your parent component model with child components using,
+Input/Output
+Shared Services
+Ngrx store. 
+I've a huge page to get user input, with very big model ...
+        ,
+            I'm trying to do a check that check if datetime.now() is 6 hours ahead from a specific datetime
+
+time = datetime.now()
+
+while True:
+         if (time.hours + 6) == datetime.now(): # I know this is ...
+        ,
+            I have a database in ms scl and a database is connected to it through ado net
+I drag the datagrid I need and use it.
+question: how to set a new row when the datagrid already has a collection from the ...
+        ,
+            I build this li with a tags in code and wanted to add edit function so I created the click event. I then set the index to the name. I was then thinking I would get the index in the click event. I am ...
+        ,
+            To access token, here is my original curl command:
+
+curl -d ""grant_type=client_credentials&client_id=here_is_my_client_id&client_secret=here_is_my_client_secret"" https://api.xxx/v1/oauth/...
+        ,
+            Why is Docker Desktop (Windows) sending HEAD requests to my containers?
+
+For ex. I have a postgres container with the port 5432 open and forwarded and in Fiddler I see requests like this to the ...
+        ,
+            I am just getting around to moving from .net core 2.2 to .net core 3.1
+
+One of the biggest changes appears to be to no longer need Newtonsoft to handle JSON.
+
+I have converted a call to an API to use ...
+        ,
+            I wrote simple hook that replace the kill system call with my one and also craete a new one and add it to the end of sys_call_table pointer everything is work fine except that when I call my system ...
+        ,
+            I am trying to install the python package hyperspy(GitHub Package), and installed git for usage in my terminal. 
+As I imported the package from the link above via pip install git+https://github.com/...
+        ,
+            public enum colors{
+Green,
+YELLOW,
+RED,
+ERROR;
+   public static colors[] values(){
+/*
+ Returns an array containing the constants of this enum type, in the order they are declared.
+*/
+   colors[] c = {...
+        ,
+            I'm writing this Kotlin script, which is part of a Gradle project (has a build.gradle file). In my Kotlin file I would like to look at the repositories in the build.gradle and retrieve a particular ...
+        ,
+            I have created an API and enable the response cache from run time configuration but still gateway sending request to backend API on Version 3.0
+        ,
+            I am trying to generate random numbers the amount determined by a paramter then store these numbers so i can assign them to a uniqe id field combined with a string code before e.g user inputs code ""HG-...
+        ,
+            How do I export a union part in Roblox to a mesh part (WITH TEXTURES AND WITHOUT BLENDER)?
+I have been trying to submit for UGC. (Also, does anyone know how to submit a user-generated hat on Roblox ...
+        ,
+            I'm still fairly new to programming overall and especially C#. Currently im working on a .Net Application in C# that produces a pdf report on the basis of user input. The application replaces all ...
+        ,
+            I am creating a GUI-based Calculator program. I've separated the areas into panels, which have the ff purposes:
+inputPanel: Where users will input numbers;
+numericPanel: Panel that holds the digits 0-...
+        ,
+            So I am trying to create a login for the first time with express and react using Postgres. My user can be added to the database so I jumped into handling duplicates. I am using the findUserByEmail ...
+        ,
+            While trying to create an xlsx file with pandas, I receive the following error: AttributeError: module 'xlsxwriter' has no attribute 'Workbook'
+
+import pandas pd
+
+writer = pd.ExcelWriter('test_file....
+        ,
+            I have a .net core 3.1 app which is packaged using a Windows Application Packaging Project.
+
+I want to write unit tests for this, but some code will only work executed in an app container. How can I ...
+        ,
+            In attempts to learn more about networks, I've been experimenting with a React App that uses WebRTC to perform audio/video sharing on my home network.  The basic setup is that I was using a PeerJS ...
+        ,
+            I have a 5x1 array, cell type, which contains NaNs. I want to replace the NaNs with empty ([]). I have tried using isnan, however it doensn't work on cell type. Please help me.
+        ,
+            I'm trying to do a simple thing - create a reusable List component. There is my List component:
+
+import React from 'react'
+import styled from 'styled-components';
+
+interface Props<T> {
+  ...
+        ,
+            Total C++ beginner here, and I need some help understanding if and else statements for this programme that I'm attempting to write. I know it must be my ordering or something that's tripping me up ...
+        ,
+            I am trying to 3D mesh 10 ellipses with various aspect ratio's for an OpenFOAM simulation. I've noticed that I'm getting the same 3 meshing errors when I try to generate a 3D mesh. 
+The 3 error ...
+        ,
+            I have a several thousands of docs in elasticsearch with different time and three serviceId's. Is it possible to divide all this docs to monthes with counter?
+Document model:
+
+{
+    ""dateTime"" : ""2011-...
+        ,
+            public
+class AccountActivity extends AppCompatActivity {
+    private
+    TextView showprofile;
+    private TextView showemail;
+    private
+    DatabaseReference userprofilereference;
+    private ...
+        ,
+            I am using SQL Server 2017.
+
+What I want to achieve: The database contains tables for customers, coupon codes and suppliers. A customer is a company. A customer may be an independent company, it may ...
+        ,
+            I have a huge problem right now binding values in a Spring Boot application.yml file to a backing bean. The values that spring tries to inject into the constructor of RoutingRule are
+
+...
+        ,
+            Private Sub Button5_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button5.Click
+
+        Dim rowsTotal, colsTotal As Short
+        System.Windows.Forms.Cursor.Current = ...
+        ,
+            I have array structured like this :
+
+[
+    [[8,[1]],[15,[2]],[20,[3]],[23,[4,41]]],
+    [[497,[18]],[500,[19]]],
+    [[1335,[38]],[2092,[39,55,61]]],
+    [[3615,[5]]],
+    [[3804,[39,55,61]],[3809,[62]...
+        ,
+            I need to make a set which contains class objects. I have an attribute of the class and I need to get a set in which each instance of the class would have the unique value of this attribute. Can I do ...
+        ,
+            Well, I have searched a thousand places, and I can't find an answer. The video treatment would be done with the Qt QCamera class, in this way you could compose windows with several webcams, and even ...
+        ,
+            I am looking to make the tile class be private; in particular it should not be able to change the value of the tile after it has been constructed.
+
+using System;
+using System.Collections.Generic;
+...
+        ,
+            this is my base class 
+public abstract class BaseEntity<TKey> 
+{
+    public TKey Id { get; set; }
+}
+  and inherit class from base class
+public class Category : BaseEntity<int>
+{
+}
+  ...
+        ,
+            The task I need is:
+
+input: geolocation coordinates from gps, radius
+
+ouput: list of pois (just names) to user can choose
+
+just need analogue for google nearby search (since their cost is too high for ...
+        ,
+            I am new to api, I wanted to integrate an api but don't know to get started.
+
+This is the Intro & Authorization page
+  Our API let's you access most of the features we have available via a
+  well ...
+        ,
+            I am new to spring and thymeleaf, as of now my project is having two pages for login and signup with thymeleaf but now I want to use bootstrap modal for login, I used ajax also, but I didn't find any ...
+        ,
+            I'm struggling how to code this one.
+Is there a way to have the browser back button the same scrollheight i left before proceeding to another page. For example, The scrollheight is 600, I click on the ...
+        ,
+            I have an android app that works fine (build and apk installation) through androudstudio + gradle build. This app uses WebRTC library:
+
+implementation(""org.webrtc:google-webrtc:1.0.27771"")
+Now I want ...
+        ,
+            I am really sorry folks if this is a stupid question but I am not able to find exact solution for my problem. I am developing an application from scratch in ReactJS. In my application I am bringing ...
+        ,
+            Actually i want to divide some no. of time slots between startTime and endTime and i have done that using a service divide-time-slot and then collected them into an array and now , i want to collect ...
+        ,
+            With the following code I'm trying to parse multiple arguments which are based on the input of the user. One of those arguments is getting multiple files and reading them using argparse.Filetype('r'). ...
+        ,
+            Hi I'm trying to use Context API and this is my code
+
+App.js
+
+import  {Provider}  from './components/contexApi/context';
+class App extends Component {
+  render() {
+    return (
+      <Provider>
+ ...
+        ,
+            I want to replace whitespaces with another string using PHP.
+
+I do it as follows:
+
+$string = 'whatever text including some $text between delimiters$ and...';
+$string_replaced = preg_replace('/\s\s+/', ...
+        ,
+            I have a class with search form: 
+
+class LocalSearch extends React.Component {
+  render() {
+    return (
+      <Container className=""search-container pt-4"">
+        <InputGroup className=""mb-...
+        ,
+            I'm using DRM v3.9.4 and have the following models:
+
+class Book(models.Model):
+   id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
+   ...
+   users = models.ManyToManyField(""...
+        ,
+            Consinder the following example:
+
+from tkinter import *
+
+# Main window
+root = Tk()
+
+a = Label(root, text=""a:"").grid(row=0, sticky=W)
+b = Label(root, text=""b:"").grid(row=1, sticky=W)
+e_a = Entry(root)....
+        ,
+            I have a trait, say T[A], and a object class(singleton), say X, which extends T
+
+object X extends T {....}
+Function f expects T as argument. 
+
+def f(t: T[A])
+So I call f as:
+
+f(X)
+I get compiler ...
+        "
