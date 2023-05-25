@@ -1,25 +1,29 @@
 # scrapy_projects
-scrapy projects ..
 
 scrapy create project structure.
 
 
-#OPEN TERMINAL 
+## OPEN TERMINAL 
+
+'pip3 install scrapy'
 
 
-pip3 install scrapy
+## Create project folder by using below command.
+
+# scrapy startproject projectfoldername
 
 
-#Create project folder by using below command.
+## Create genspider for our project.
 
+# scrapy genspider example example.com   
+#Donaim name and site url.
 
-scrapy startproject projectfoldername
+# RUN SPIDER
 
+# scrapy crawl filename.py -o csvfile.csv -o jsonfile.json   #both files u can make at the same time.
 
-#Create genspider for our project.
+# Some Guide links for the developer
 
-scrapy genspider example example.com   #Donaim name and site url.
+https://scrapeops.io/python-scrapy-playbook/scrapy-beginners-guide/
 
-#RUN SPIDER
-
-scrapy crawl filename.py -o csvfile.csv -o jsonfile.json   #both files u can make at the same time.
+https://reflect.run/articles/installing-chromedriver-and-python-selenium/
